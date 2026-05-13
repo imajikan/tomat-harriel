@@ -212,3 +212,23 @@ body{
         opacity: 0;
     }
 }
+@media (max-width: 768px){
+
+    .other-game-box{
+
+        bottom: 40px;
+
+        left: 50%;
+
+        transform: translateX(-50%);
+
+        width: 80%;
+
+        max-width: 280px;
+    }
+
+    .image-button img{
+        width: 240px;
+    }
+
+}
